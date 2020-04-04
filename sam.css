@@ -1,15 +1,17 @@
-a{
-
-    padding:5px;
-    border:1px solid black;
-    border-collapse: collapse;
+h2{
+    color:pink;
+    text-align: right;
+    text-weight:bold;
+    background-color:#e83c4b
+}
+p{
+    text-align:left;
+    font-family:cursive;
+    text-decoration-color:black;
+    font-weight:2px;
 }
 div{
-    background-color:#e83c4b;
+    background-color:blue;
     width:100%;
     height:100%;
-    text-align: center;
-    font-family:Arial;
-    font-size:10px;
-    padding:100px;
 }
