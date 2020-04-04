@@ -1,0 +1,15 @@
+a{
+
+    padding:5px;
+    border:1px solid black;
+    border-collapse: collapse;
+}
+div{
+    background-color:#e83c4b;
+    width:100%;
+    height:100%;
+    text-align: center;
+    font-family:Arial;
+    font-size:10px;
+    padding:100px;
+}
