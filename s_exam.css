@@ -1,0 +1,13 @@
+div{
+
+    background-color:#e83c4b;
+
+
+}
+li{
+    color: blue;
+    font-family:sans-serif;
+    border:0.5px solid black;
+    border-collapse:collapse;
+    padding:10px;
+}
